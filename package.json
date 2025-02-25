@@ -1,20 +1,19 @@
 {
     "name": "splithub-ab-testing",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "A simple A/B testing library for client-side testing with Splithub AB Easy Testing functionality. Now with page-specific triggering.",
     "main": "index.js",
     "module": "index.js",
     "scripts": {
-      "build": "echo 'Building package...'",
-      "test": "echo 'No tests defined.'"
+        "build": "echo 'Building package...'",
+        "test": "echo 'No tests defined.'"
     },
     "keywords": [
-      "ab-testing",
-      "splithub",
-      "redirect",
-      "client-side"
+        "ab-testing",
+        "splithub",
+        "redirect",
+        "client-side"
     ],
     "author": "Andrew Bro",
     "license": "MIT"
-  }
-  
+}
