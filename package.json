@@ -15,5 +15,9 @@
         "client-side"
     ],
     "author": "Andrew Bro",
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/splithub-io/splithub-ab-testing.git"
+    }
 }

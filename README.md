@@ -1,4 +1,6 @@
-# Splithub AB Testing Librar
+[![npm version](https://badge.fury.io/js/splithub-ab-testing.svg)](https://badge.fury.io/js/splithub-ab-testing)
+# Splithub AB Testing
+
 
 ![Splithub Logo](https://splithub.io/assets/img/sh-intro.jpg)
 

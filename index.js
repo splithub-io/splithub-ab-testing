@@ -1,5 +1,5 @@
 /**
- * Splithub AB Testing Library
+ * Splithub AB Testing
  * 
  * This library provides a simple interface to initialize and run A/B tests,
  * supporting both "redirect" and "edits" test types. It allows you to define
