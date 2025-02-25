@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/splithub-ab-testing.svg)](https://badge.fury.io/js/splithub-ab-testing)
+[![Node.js Package](https://github.com/splithub-io/splithub-ab-testing/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/splithub-io/splithub-ab-testing/actions/workflows/npm-publish-github-packages.yml)
 # Splithub AB Testing
 
 
