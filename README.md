@@ -5,7 +5,17 @@
 
 ![Splithub Logo](https://splithub.io/assets/img/sh-intro.jpg)
 
-**[Splithub.io](https://github.com/splithub-io/ab-easy) AB Testing Library** is a free, open-source Node library designed for integrating A/B testing into your website with minimal setup. It supports both "redirect" and "edits" test types and provides the flexibility to define a global configuration while triggering tests only on designated pages.
+**[Splithub.io](https://splithub.io) AB Testing Library** is a free, open-source JavaScript library for running A/B tests directly in the browser — no server required. Define your tests once, target specific pages, and let the library handle variant assignment, storage, and analytics automatically.
+
+## Why Splithub AB Testing?
+
+Most A/B testing tools are either too complex, require backend infrastructure, or come with a price tag. Splithub AB Testing is different:
+
+-   **Zero dependencies** — pure JavaScript, no bloat
+-   **Two minutes to integrate** — drop it in, define your config, done
+-   **Works anywhere** — any website, any framework, any stack
+-   **No data sent to third parties** — variants stored locally in the user's browser
+-   **Free and open-source** — MIT license, forever
 
 ## Features
 
@@ -19,6 +29,7 @@
     
     -   **Redirect:** Automatically redirect users to different URLs based on their assigned variant.
     -   **Edits:** Modify page elements (e.g., hide or show blocks) based on the assigned variant.
+
 -   **Persistent Variant Assignment:**  
     Variants are stored using either cookies or `localStorage`, ensuring a consistent experience for users across sessions.
     
