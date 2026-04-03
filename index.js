@@ -58,8 +58,6 @@ class ABTester {
           event_category: category,
           event_label: label,
         });
-      } else {
-        console.log("GA Event:", category, action, label);
       }
     }
   
@@ -153,4 +151,9 @@ class ABTester {
   
   // Export as default to allow users to import the library easily.
   export default ABTester;
+  
+  // CommonJS compatibility
+  if (typeof module !== "undefined" && module.exports) {
+    module.exports = ABTester;
+  }
   

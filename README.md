@@ -1,6 +1,6 @@
-[![npm version](https://badge.fury.io/js/splithub-ab-testing.svg)](https://badge.fury.io/js/splithub-ab-testing)
+[![npm version](https://badge.fury.io/js/splithub-ab-testing.svg)](https://www.npmjs.com/package/splithub-ab-testing)
 [![Node.js Package](https://github.com/splithub-io/splithub-ab-testing/actions/workflows/npm-publish-github-packages.yml/badge.svg?branch=main)](https://github.com/splithub-io/splithub-ab-testing/actions/workflows/npm-publish-github-packages.yml)
-# Splithub AB Testing
+# Splithub AB Testing Library
 
 
 ![Splithub Logo](https://splithub.io/assets/img/sh-intro.jpg)
@@ -29,9 +29,11 @@
 
 Install the package via npm:
 
-`npm install splithub-ab-testing` 
+`npm install splithub-ab-testing`
 
 Or include the script directly in your project if you prefer manual bundling. [Download JS](https://github.com/splithub-io/ab-easy).
+
+View the package on [npm](https://www.npmjs.com/package/splithub-ab-testing).
 
 
 ## Usage

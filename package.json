@@ -1,7 +1,7 @@
 {
-    "name": "@splithub-io/splithub-ab-testing",
-    "version": "1.1.1",
-    "description": "A simple A/B testing library for client-side testing with Splithub AB Easy Testing functionality. Now with page-specific triggering.",
+    "name": "splithub-ab-testing",
+    "version": "1.1.2",
+    "description": "A lightweight A/B testing library for client-side split testing. Supports redirect and DOM-edit test types with page-specific triggering, persistent variant assignment, and Google Analytics integration.",
     "main": "index.js",
     "module": "index.js",
     "scripts": {
@@ -10,18 +10,30 @@
     },
     "keywords": [
       "ab-testing",
+      "a/b-testing",
       "splithub",
+      "split-testing",
       "redirect",
-      "client-side"
+      "client-side",
+      "experiment",
+      "variant",
+      "analytics",
+      "google-analytics",
+      "conversion-optimization",
+      "cro"
     ],
     "author": "Andrew Bro",
     "license": "MIT",
+    "homepage": "https://www.npmjs.com/package/splithub-ab-testing",
+    "bugs": {
+      "url": "https://github.com/splithub-io/splithub-ab-testing/issues"
+    },
     "repository": {
       "type": "git",
       "url": "https://github.com/splithub-io/splithub-ab-testing.git"
     },
     "publishConfig": {
-      "registry": "https://npm.pkg.github.com"
+      "registry": "https://registry.npmjs.org"
     }
   }
   
